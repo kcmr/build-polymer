@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/wc-tools/build-polymer/compare/1.0.1...1.0.2) (2020-04-20)
+
+
+### Bug Fixes
+
+* **package:** set publishConfig to public ([7360ea9](https://github.com/wc-tools/build-polymer/commit/7360ea9a15a9ed9c7c839ca1c52a73ad9da89cd5))
+
 ## [1.0.1](https://github.com/wc-tools/build-polymer/compare/1.0.0...1.0.1) (2020-04-20)
 
 
