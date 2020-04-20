@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/wc-tools/build-polymer/compare/1.0.2...2.0.0) (2020-04-20)
+
+
+### Features
+
+* **package:** replace scope name ([cc7aca0](https://github.com/wc-tools/build-polymer/commit/cc7aca00713e7b35f0d313831574679affc43b08))
+
+
+### BREAKING CHANGES
+
+* **package:** trigger v2 version, ignore v1.x
+
 ## [1.0.2](https://github.com/wc-tools/build-polymer/compare/1.0.1...1.0.2) (2020-04-20)
 
 
