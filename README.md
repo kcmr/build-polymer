@@ -10,5 +10,5 @@ Refer to [original documentation](https://github.com/Polymer/tools/tree/master/p
 ## Installation
 
 ```
-npm install --save-dev @wc-tools/build-polymer
+npm install --save-dev @wctools/build-polymer
 ```

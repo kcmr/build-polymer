@@ -1,5 +1,5 @@
 {
-  "name": "@wc-tools/build-polymer",
+  "name": "@wctools/build-polymer",
   "version": "1.0.2",
   "description": "Library for building Polymer projects",
   "license": "BSD-3-Clause",
