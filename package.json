@@ -1,9 +1,9 @@
 {
-  "name": "polymer-build",
-  "version": "3.1.4",
+  "name": "build-polymer",
+  "version": "0.0.0-development",
   "description": "A library of Gulp build tasks",
-  "homepage": "https://github.com/kcmr/polymer-build",
-  "repository": "github:kcmr/polymer-build",
+  "homepage": "https://github.com/kcmr/build-polymer",
+  "repository": "github:kcmr/build-polymer",
   "license": "BSD-3-Clause",
   "author": "The Polymer Project Authors",
   "main": "lib/polymer-build.js",
