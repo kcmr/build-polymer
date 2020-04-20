@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/wc-tools/build-polymer/compare/1.0.0...1.0.1) (2020-04-20)
+
+
+### Bug Fixes
+
+* **package:** change package name and repo fields ([5aa8ef7](https://github.com/wc-tools/build-polymer/commit/5aa8ef7e8b0881985cd53e0b8d5e42b5fefd04f7))
+
 # 1.0.0 (2020-04-20)
 
 
