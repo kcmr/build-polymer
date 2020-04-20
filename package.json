@@ -1,6 +1,6 @@
 {
   "name": "build-polymer",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "Library for building Polymer projects",
   "homepage": "https://github.com/kcmr/build-polymer",
   "repository": "github:kcmr/build-polymer",
