@@ -109,6 +109,9 @@
     "husky": "^4.0.0",
     "semantic-release": "^17.0.0"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "husky": {
     "hooks": {
       "pre-push": "npm t",
