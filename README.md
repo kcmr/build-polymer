@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/kcmr/build-polymer.svg?branch=master)](https://travis-ci.com/kcmr/build-polymer)
+[![Build Status](https://travis-ci.com/wc-tools/build-polymer.svg?branch=master)](https://travis-ci.com/wc-tools/build-polymer)
 
 # build-polymer (Polymer Build fork)
 
@@ -10,5 +10,5 @@ Refer to [original documentation](https://github.com/Polymer/tools/tree/master/p
 ## Installation
 
 ```
-npm install --save-dev build-polymer
+npm install --save-dev @wc-tools/build-polymer
 ```
